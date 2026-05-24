@@ -7,13 +7,15 @@
     <p>
       <b>FiveM Developer</b>
     </p>
-    Learning React
     <p>
-    <p>
-      Lua • JS • React • HTML • CSS
+      <img src="https://img.shields.io/badge/lua-%232C2D72?style=flat-square&logo=lua&logoColor=white" alt="Lua">
+      <img src="https://img.shields.io/badge/javascript-%23F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript">
+      <img src="https://img.shields.io/badge/html5-%23E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5">
+      <img src="https://img.shields.io/badge/css3-%231572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3">
+      <img src="https://img.shields.io/badge/react-learning-%2320232A?style=flat-square&logo=react&logoColor=%2361DAFB" alt="React Learning">
     </p>
     <p>
-      UI/UX • Backend • Security • Netorking
+      Resources • Optimization • Security
     </p>
   </div>
   
